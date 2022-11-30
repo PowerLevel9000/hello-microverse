@@ -11,8 +11,10 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 you just in the copy of this project 
+```
 --for that you have to clone it in your pc 
 --just double click on the the index.html file and open it in browser 
+```
 
 ### Run tests
 just follow steps pr and it works
