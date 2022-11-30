@@ -6,38 +6,31 @@
 -HTML
 -CSS</a>
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
+you just in the copy of this project 
+```
+--for that you have to clone it in your pc 
+--just double click on the the index.html file and open it in browser 
+```
 
 ### Run tests
+just follow steps pr and it works
 
 ### Deployment
+not avalible yet
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors"> Adarsh</a>
 
 👤 **ADARSH**
 
 - GitHub: [@ADARSH](https://github.com/PowerLevel9000)
 - INSTAGRAM: [@ADARSH](https://instagram.com/adarsh8090adi?igshid=YmMyMTA2M2Y=)
 
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements">
 I HAVE MADE THIS PROJECT ACOORDING TO MY KNOWLEDGE AND WITH THE HELP OF MY FRIENDS FOR TECH PARTS TO INTI MY PROJECTS </a>
-
-
 
 ## 📝 License <a name="license"></a>
 
